@@ -1,1 +1,1 @@
-https://amalendu02.github.io/OpenWeatehr/
+https://amalendu02.github.io/OpenWeather/
